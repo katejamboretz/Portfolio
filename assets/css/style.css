@@ -299,10 +299,23 @@ footer {
         width: 800px;
     }
 
+    .name {
+        width: 700px;
+    }
+
+    .email {
+        width: 700px;
+    }
+
+    .message {
+        width: 700px;
+    }
+
     
 }
 
 @media screen and (max-width: 768px) {
+    
 
 }
 
@@ -402,13 +415,22 @@ footer {
         height: 1380px;
     }
 
-    .pcontact {
-        width: min-content;
-    }
 
     .portfoliopage {
         width: 450px;
         height: 2800px;
+    }
+
+    .name {
+        width: 440px;
+    }
+
+    .email {
+        width: 440px;
+    }
+
+    .message {
+        width: 440px;
     }
 
 
