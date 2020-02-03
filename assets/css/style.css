@@ -319,13 +319,57 @@ footer {
         height: min-content;
     }
 
+    .mainportfolio {
+        margin: 15px;
+        margin-top: 120px;
+        align-self: center;
+        width: 505px;
+        height: 2580px;
+    }
+
     .profile {
         width: 380px;
         height: 400px;
+    }
+
+    .hangpic {
+        width: 465px;
+        height: 465px;
+    }
+
+    .rpgpic {
+        width: 465px;
+        height: 465px;
+    }
+
+    .triviapic {
+        width: 465px;
+        height: 465px;
+    }
+
+    .rutgerspic {
+        width: 465px;
+        height: 465px;
+    }
+
+    .rockpic {
+        width: 465px;
+        height: 465px;
+    }
+
+    h2 {
+        margin-top: 360px;
     }
 
     .aboutpage {
         width: 450px;
         height: 1380px;
     }
+
+    .portfoliopage {
+        width: 450px;
+        height: 2800px;
+    }
+
+
 }
