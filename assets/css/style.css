@@ -274,6 +274,30 @@ footer {
 }
 
 @media screen and (max-width: 980px) {
+    .about {
+        left: 700px;
+    }
+
+    .portfolio {
+        left:790px;
+    }
+
+    .contact {
+        left: 890px;
+    }
+    
+    .mainportfolio {
+        width: 800px;
+    }
+
+    .mainabout {
+        width: 800px;
+        height: min-content;
+    }
+
+    .maincontact {
+        width: 800px;
+    }
 
     
 }
