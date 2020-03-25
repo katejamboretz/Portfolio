@@ -149,20 +149,20 @@ h1 {
   margin: 20px;
 }
 
-.hangpic {
+.psychicpic {
   float: left;
   background-color: #777777;
-  background-image: url("../images/markus-spiske--vPCLnC8MSs-unsplash.jpg");
+  background-image: url("../images/jose-antonio-gallego-vazquez-1UD3QX92V6o-unsplash.jpg");
   background-size: cover;
   width: 285px;
   height: 285px;
   margin: 20px;
 }
 
-.rpgpic {
+.crystalpic {
   float: left;
   background-color: #777777;
-  background-image: url("../images/erik-mclean-C3T8KTZxTFM-unsplash.jpg");
+  background-image: url("../images/allie-smith--2Lh4i4eL1c-unsplash.jpg");
   background-size: cover;
   background-position: center;
   width: 285px;
@@ -180,10 +180,10 @@ h1 {
   margin: 20px;
 }
 
-.rutgerspic {
+.giphypic {
   float: left;
   background-color: #777777;
-  background-image: url("../images/sara-kurfess-6lcT2kRPvnI-unsplash.jpg");
+  background-image: url("../images/hybrid-uGP_6CAD-14-unsplash.jpg");
   background-size: cover;
   background-position: center;
   width: 285px;
@@ -191,10 +191,10 @@ h1 {
   margin: 20px;
 }
 
-.rockpic {
+.trainpic {
   float: left;
   background-color: #777777;
-  background-image: url("../images/marcus-wallis-R1qHDAEnCmc-unsplash.jpg");
+  background-image: url("../images/wolfgang-rottmann-tx632mx5dr0-unsplash.jpg");
   background-size: cover;
   background-position: center;
   width: 285px;
