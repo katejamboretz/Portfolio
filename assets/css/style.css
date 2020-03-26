@@ -10,7 +10,7 @@ font-family: 'Baloo Thambi 2', cursive; */
 .portfoliopage {
   color: #ffffff;
   width: 960px;
-  height: 1230px;
+  height: 1612px;
   font-family: "Source Code Pro", monospace;
 }
 
@@ -115,7 +115,7 @@ body {
   /* background-color: #ffffff; */
   background-color: black;
   width: 960px;
-  height: 1040px;
+  height: 1367px;
   margin: 100px 100px 50px 100px;
   border-color: #dddddd;
   border-radius: 1px;
@@ -223,6 +223,17 @@ h1 {
   float: left;
   background-color: #777777;
   background-image: url("../images/mats-hagwall-DY-xrG3RG_w-unsplash.jpg");
+  background-size: cover;
+  background-position: center;
+  width: 285px;
+  height: 285px;
+  margin: 20px;
+}
+
+.datapic {
+  float: left;
+  background-color: #777777;
+  background-image: url("../images/armand-khoury-4cBVro7SHLs-unsplash.jpg");
   background-size: cover;
   background-position: center;
   width: 285px;
@@ -511,7 +522,7 @@ footer {
     margin-top: 120px;
     position: center;
     width: 401px;
-    height: 2469px;
+    height: 2866px;
   }
 
   .maincontact {
@@ -564,6 +575,12 @@ footer {
     height: 360px;
   }
 
+  .datapic {
+    margin-left: 20px;
+    width: 360px;
+    height: 360px;
+  }
+
   h2 {
     margin-top: 257px;
   }
@@ -579,7 +596,7 @@ footer {
 
   .portfoliopage {
     width: 414px;
-    height: 2720px;
+    height: 3060px;
   }
 
   /* .name {
