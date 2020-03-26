@@ -8,6 +8,7 @@ This website consists of an 'About' page with a picture and description, a 'Port
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) - Cascading Style Sheets used for styling
 - [Google Fonts](https://fonts.google.com) - Google source for personalized fonts
 - [Unsplash Photos](https://unsplash.com) - internet source for photos
+- [Subtle Patterns](https://www.toptal.com/designers/subtlepatterns/) - nice images and patterns for website backgrounds
 
 ## Authors
 
