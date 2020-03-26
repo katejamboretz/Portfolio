@@ -1,4 +1,4 @@
-# Responsive-Portfolio
+# Responsive Portfolio
 
 This website consists of an 'About' page with a picture and description, a 'Portfolio' page updated with links to projects and repositories as well as a 'Contact' page with links to a personal resume and LinkedIn account. This was initially a responsive portfolio with a designated design created for UC Berkeley Extension homework assignment with added personal styling.
 
@@ -15,6 +15,6 @@ This website consists of an 'About' page with a picture and description, a 'Port
 
 ## Acknowledgments
 
-- UC Berkeley Extension Full Stack Development 2020 Instructor & TAs
+- UC Berkeley Extension Full Stack Development 2020 Instructor, TAs and classmates
 - [PurpleBooth README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
 - [Unsplash Photographers](https://unsplash.com) - names listed in image titles
