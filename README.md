@@ -12,7 +12,7 @@ This website consists of an 'About' page with a picture and description, a 'Port
 
 ## Authors
 
-- **Kate Jamboretz** - _Initial & Continuing work_ - [katejamboretz](https://github.com/katejamboretz)
+- **Kate Jamboretz** - _Initial work_ - [katejamboretz](https://github.com/katejamboretz)
 
 ## Acknowledgments
 
