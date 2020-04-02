@@ -534,7 +534,7 @@ footer {
     margin-top: 120px;
     position: center;
     width: 401px;
-    height: 2866px;
+    height: 3261px;
   }
 
   .maincontact {
@@ -593,6 +593,12 @@ footer {
     height: 360px;
   }
 
+  .liripic {
+    margin-left: 20px;
+    width: 360px;
+    height: 360px;
+  }
+
   h2 {
     margin-top: 257px;
   }
@@ -608,7 +614,7 @@ footer {
 
   .portfoliopage {
     width: 414px;
-    height: 3060px;
+    height: 3465px;
   }
 
   /* .name {
