@@ -241,6 +241,17 @@ h1 {
   margin: 20px;
 }
 
+.liripic {
+  float: left;
+  background-color: #777777;
+  background-image: url("../images/yvette-de-wit-NYrVisodQ2M-unsplash.jpg");
+  background-size: cover;
+  background-position: center;
+  width: 285px;
+  height: 285px;
+  margin: 20px;
+}
+
 .name {
   margin-left: 20px;
   padding: 10px;
