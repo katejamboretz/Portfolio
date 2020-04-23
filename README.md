@@ -2,6 +2,10 @@
 
 This website consists of an 'About' page with a picture and description, a 'Portfolio' page updated with links to projects and repositories as well as a 'Contact' page with links to a personal resume and LinkedIn account. This was initially a responsive portfolio with a designated design created for UC Berkeley Extension homework assignment with added personal styling.
 
+## Depoyed Website Link
+
+[Portfolio](https://katejamboretz.github.io/Responsive-Portfolio/)
+
 ## Built With
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) - HyperText Markup Language used for structure
