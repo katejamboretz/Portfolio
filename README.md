@@ -13,6 +13,7 @@ This website consists of an 'About' page with a picture and description, a 'Port
 ## Authors
 
 - **Kate Jamboretz** - _Initial work_ - [katejamboretz](https://github.com/katejamboretz)
+- **UCB Extension Full Stack Program** - _provide assignment objective, overall purpose and initial visual design ideas and repository/file nomenclature and organization_
 
 ## Acknowledgments
 
