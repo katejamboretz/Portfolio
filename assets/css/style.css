@@ -285,6 +285,17 @@ h1 {
   margin: 20px;
 }
 
+.handspic {
+  float: left;
+  background-color: #777777;
+  background-image: url("../images/perry-grone-lbLgFFlADrY-unsplash.jpg");
+  background-size: cover;
+  background-position: center;
+  width: 285px;
+  height: 285px;
+  margin: 20px;
+}
+
 .name {
   margin-left: 20px;
   padding: 10px;
@@ -567,7 +578,7 @@ footer {
     margin-top: 120px;
     position: center;
     width: 401px;
-    height: 4470px;
+    height: 4870px;
   }
 
   .maincontact {
@@ -650,6 +661,12 @@ footer {
     height: 360px;
   }
 
+  .handspic {
+    margin-left: 20px;
+    width: 360px;
+    height: 360px;
+  }
+
   h2 {
     margin-top: 257px;
   }
@@ -665,7 +682,7 @@ footer {
 
   .portfoliopage {
     width: 414px;
-    height: 4700px;
+    height: 5100px;
   }
 
   /* .name {
