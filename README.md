@@ -4,7 +4,7 @@ This website consists of an 'About' page with a picture and description, a 'Port
 
 ## Depoyed Website Link
 
-[Portfolio](https://katejamboretz.github.io/Responsive-Portfolio/)
+[Portfolio](https://katejamboretz.github.io/Portfolio/)
 
 ## Built With
 
