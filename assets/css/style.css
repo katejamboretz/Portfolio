@@ -307,6 +307,17 @@ h1 {
   margin: 20px;
 }
 
+.shellpic {
+  float: left;
+  background-color: #777777;
+  background-image: url("../images/axel-visoso-st1hkaZnZow-unsplash.jpg");
+  background-size: cover;
+  background-position: center;
+  width: 285px;
+  height: 285px;
+  margin: 20px;
+}
+
 .name {
   margin-left: 20px;
   padding: 10px;
@@ -589,7 +600,7 @@ footer {
     margin-top: 120px;
     position: center;
     width: 401px;
-    height: 5270px;
+    height: 5670px;
   }
 
   .maincontact {
@@ -684,6 +695,12 @@ footer {
     height: 360px;
   }
 
+  .shellpic {
+    margin-left: 20px;
+    width: 360px;
+    height: 360px;
+  }
+
   h2 {
     margin-top: 257px;
   }
@@ -699,7 +716,7 @@ footer {
 
   .portfoliopage {
     width: 414px;
-    height: 5550px;
+    height: 6000px;
   }
 
   /* .name {
