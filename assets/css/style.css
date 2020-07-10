@@ -329,6 +329,17 @@ h1 {
   margin: 20px;
 }
 
+.rscpic {
+  float: left;
+  background-color: #777777;
+  background-image: url("../images/susan-yin-2JIvboGLeho-unsplash.jpg");
+  background-size: cover;
+  background-position: center;
+  width: 285px;
+  height: 285px;
+  margin: 20px;
+}
+
 .name {
   margin-left: 20px;
   padding: 10px;
@@ -611,7 +622,7 @@ footer {
     margin-top: 120px;
     position: center;
     width: 401px;
-    height: 6070px;
+    height: 6480px;
   }
 
   .maincontact {
@@ -718,6 +729,12 @@ footer {
     height: 360px;
   }
 
+  .rscpic {
+    margin-left: 20px;
+    width: 360px;
+    height: 360px;
+  }
+
   h2 {
     margin-top: 257px;
   }
@@ -733,7 +750,7 @@ footer {
 
   .portfoliopage {
     width: 414px;
-    height: 6300px;
+    height: 6700px;
   }
 
   /* .name {
