@@ -10,7 +10,7 @@ font-family: 'Baloo Thambi 2', cursive; */
 .portfoliopage {
   color: #ffffff;
   width: 960px;
-  height: 2900px;
+  height: 3200px;
   font-family: "Source Code Pro", monospace;
 }
 
@@ -115,7 +115,7 @@ body {
   /* background-color: #ffffff; */
   background-color: black;
   width: 960px;
-  height: 2680px;
+  height: 3000px;
   margin: 100px 100px 50px 100px;
   border-color: #dddddd;
   border-radius: 1px;
@@ -340,6 +340,17 @@ h1 {
   margin: 20px;
 }
 
+.artpic {
+  float: left;
+  background-color: #777777;
+  background-image: url("../images/debby-hudson-MzSqFPLo8CE-unsplash.jpg");
+  background-size: cover;
+  background-position: center;
+  width: 285px;
+  height: 285px;
+  margin: 20px;
+}
+
 .name {
   margin-left: 20px;
   padding: 10px;
@@ -433,7 +444,7 @@ footer {
 
   .portfoliopage {
     width: 1024px;
-    height: 2600px;
+    height: 3200px;
   }
 
   .aboutpage {
@@ -622,7 +633,7 @@ footer {
     margin-top: 120px;
     position: center;
     width: 401px;
-    height: 6480px;
+    height: 6880px;
   }
 
   .maincontact {
@@ -735,6 +746,12 @@ footer {
     height: 360px;
   }
 
+  .artpic {
+    margin-left: 20px;
+    width: 360px;
+    height: 360px;
+  }
+
   h2 {
     margin-top: 257px;
   }
@@ -750,7 +767,7 @@ footer {
 
   .portfoliopage {
     width: 414px;
-    height: 6700px;
+    height: 7100px;
   }
 
   /* .name {
